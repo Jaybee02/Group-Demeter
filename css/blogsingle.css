@@ -7,6 +7,22 @@ body,html{
     padding-left: 20px
 }
 
-.contactOverlay{
-  width: 65%;
+.mt5{
+    margin-top: 70px;
+ }
+
+.contactBg1 {
+    background: url('/images/car.image.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    object-fit: cover;
+}
+
+
+.contactBg2 {
+    background: url('/images/car.connect.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    object-fit: cover;
+    
 }

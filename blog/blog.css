@@ -9,20 +9,8 @@
   background-size: cover;
   object-fit: cover;
 }
-.contactBg1{
-  background: url('./images/car-white.png');
-  background-repeat: no-repeat;
-  background-size: cover;
-  object-fit: cover;
-}
-.contactBg2{
-  background: url('./images/cable.png');
-  background-repeat: no-repeat;
-  background-size: cover;
-  object-fit: cover;
-}
 .contactOverlay{
-  width: 65%;;
+  width: 65%;
 }
 .xx{
   height: 20rem;

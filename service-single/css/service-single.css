@@ -1,0 +1,12 @@
+@media (max-width:426px){
+    .second-section{margin-top: 50px !important; background-image: url('/KC2-Demeter/service-single/images/car2.png') !important; background-repeat: no-repeat; background-size: cover !important; min-height: 50vh;}
+    .box .card{margin: 0px 70px 0 !important; width: 200px !important;height: 50px !important; padding: 0 !important;}
+    .box .card-body{padding: 0 !important; margin: 0 !important;}
+    .box .card-body h1{font-size: 12px; padding: 20px 10px !important; margin: 0 0 0 10px !important;}
+    .box .card-body .btn{padding: 5px !important; font-size: 10px !important; margin: 0 0 0 20px !important;}}
+@media (min-width:481px) and (max-width:769px){
+    .second-section{margin-top: 50px;}
+    .box .card{margin: 0 100px 0 !important;padding: 0 !important;height: 200px;width: 400px !important;}
+    .box .card-body{padding: 0 !important; margin: 0 !important;}
+    .box .card-body h1{font-size: 25px; padding: 20px !important;}
+    .box .card-body .btn{padding: 8px 15px; margin: 0 20px !important;}}

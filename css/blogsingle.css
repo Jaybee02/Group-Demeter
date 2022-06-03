@@ -7,22 +7,19 @@ body,html{
     padding-left: 20px
 }
 
-.contactBg1 {
-    background: url('/images/car.image.png');
-    background-repeat: no-repeat;
-    background-size: cover;
-    object-fit: cover;
-}
+ .mt5{
+    margin-top: 70px;
+ }
 
-
-.contactBg2 {
-    background: url('/images/car.connect.png');
-    background-repeat: no-repeat;
-    background-size: cover;
-    object-fit: cover;
-    
-}
-
-.contactOverlay {
-    width: 65%;
-}
+ .contachBg1{
+    background: url('/images/car.image.png') no-repeat;
+    height: 60vh;
+    background-position: center;
+    background-size: cover; 
+ }
+ . contactBg2{
+    background: url('/images/car.connect.png') no-repeat;
+    height: 60vh;
+    background-position: center;
+    background-size: cover; 
+ }

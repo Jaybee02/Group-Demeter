@@ -7,19 +7,6 @@ body,html{
     padding-left: 20px
 }
 
- .mt5{
-    margin-top: 70px;
- }
-
- .contachBg1{
-    background: url('/images/car.image.png') no-repeat;
-    height: 60vh;
-    background-position: center;
-    background-size: cover; 
- }
- . contactBg2{
-    background: url('/images/car.connect.png') no-repeat;
-    height: 60vh;
-    background-position: center;
-    background-size: cover; 
- }
+.contactOverlay{
+  width: 65%;
+}

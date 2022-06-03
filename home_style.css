@@ -1,0 +1,63 @@
+.ht {
+    border: 2px solid red;
+
+}
+
+.btn-color {
+    background-color: #FF6433;
+    border: #FF6433;
+}
+
+.pagecolor {
+    background-color: #FF6433;
+}
+
+.btn-colors:hover,
+.btn-colors:active,
+.btn-color:hover,
+.btn-color:active {
+    background-color: #f59d83;
+    border: #f59d83;
+}
+
+.bg-second-section {
+    background: #E2E6E9;
+}
+
+.bg-sec3 {
+    background-color: #661CE7;
+}
+
+
+.dotted {
+    border-left: 2px dotted red;
+}
+
+.cardobj {
+    margin: 5px;
+}
+
+.fifth-right {
+    background: url("./home_images/fifth.png");
+}
+
+.fifth-left {
+    background: url("./home_images/fifth2.png");
+}
+
+.fifth-section-footer {
+    background: #F2F2F2;
+}
+
+.fifth-col {
+    color: #661CE7;
+}
+
+#seventh-section{
+    background: #F2F2F2;
+    mix-blend-mode: multiply;
+}
+
+#eigth-section {
+    background: #E2E6E9;
+}

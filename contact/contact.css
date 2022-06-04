@@ -1,0 +1,26 @@
+input,select,textarea{
+     height: 45px;
+ }
+ 
+ .btn-primary{
+     background-color: #ff6433 !important;
+     border: none !important;
+ }
+
+ .text-dark{
+     color:#1e1b1b !important;
+ }
+ 
+ .image-absolute{
+     position: absolute;
+     left: 30% !important;
+     top:-35%;
+ 
+ }
+ 
+ 
+ @media (max-width:500px){
+     .map{
+         display: none;
+     }
+ }

@@ -1,8 +1,8 @@
-.ht {
-    border: 2px solid red;
-
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
 }
-
 .btn-color {
     background-color: #FF6433;
     border: #FF6433;

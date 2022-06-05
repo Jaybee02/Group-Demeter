@@ -7,6 +7,9 @@
     background-color: #FF6433;
     border: #FF6433;
 }
+.btn-colors{
+    background: #fff;
+}
 
 .pagecolor {
     background-color: #FF6433;
@@ -53,6 +56,10 @@
 
 #eigth-section {
     background: #E2E6E9;
+}
+
+.lines{
+    margin: 0 0 0 .7rem;
 }
 
 

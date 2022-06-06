@@ -4,9 +4,9 @@
     box-sizing: border-box;
 }
 
- .containers {
-    width: 70%;
-    margin: 0 auto;
+@import url('https://fonts.googleapis.com/css2?family=Manrope:wght@700&display=swap');
+ body{
+   font-family: 'Manrope', sans-serif !important;
  }
 
  .one{
@@ -99,5 +99,10 @@
     height: 60vh;
     background-position: center;
     background-size: cover; 
+ }
+
+ #team img{
+    object-fit:cover;
+    object-position: center top;
  }
  
